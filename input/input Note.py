@@ -22,7 +22,7 @@ while True:
         elif (counter > 3):
             print("Yep I am done, there is no hope for you")
 
-print("Here is your number: ", num1)
+print("Here is your number omg so cool: ", num1)
 
 while True:
     try:
